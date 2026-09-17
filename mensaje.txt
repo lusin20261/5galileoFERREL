@@ -1,0 +1,10 @@
+perro
+gato
+cuy
+paloma
+gallina
+gallito de las rocas
+loro
+leon
+serpiente
+maripoza

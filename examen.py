@@ -1,0 +1,11 @@
+a = input("ingresa tu nombre ")
+b = input("cual estu comida favorita ")
+c = input("cual es el color que te gusta")
+d = input("que animal te gusta")
+e = input("cuantos años tienes")
+print("holiss" ,a)
+print("tienes" ,e)
+print("ami tambien me gusta" ,b)
+print("mi color favorito tambien es" ,c)
+print("tu animal favorito es" ,d)
+
